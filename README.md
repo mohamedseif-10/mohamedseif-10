@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m a junior data scientist with skills in Python, MySQL, and data visualization. Experienced in data analysis, ETL processes, data cleaning, web scraping, and machine learning. I’m passionate about transforming complex data into actionable insights and impactful models. Explore my projects to see how I’m developing in the field!
+I’m a junior data scientist skilled in Python, MySQL, SQLAlchemy, and data visualization (charts & dashboards). Experienced in data analysis, ETL processes, data cleaning, web scraping, and machine learning. I use tools like Google Colab, Jupyter Notebook, and Streamlit to transform complex data into actionable insights and impactful models. Explore my projects to see how I’m developing in the field!
 
 
 ## Languages, Tools, and Frameworks
