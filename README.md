@@ -1,6 +1,3 @@
-## Hi Guys 👋
-
-
 ## This is Mohammed seif, a junior data science and software Engineer from Egypt.
 
 ## About me
