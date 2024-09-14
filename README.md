@@ -3,10 +3,6 @@
 
 ## This is Mohammed seif, a junior data science and software Engineer from Egypt.
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/l41lPc9dT91glxsmQ/200w.gif?cid=6c09b952c8t00pud7q2iabg0t2trnc24d1ca67iu4jjwqnhr&ep=v1_gifs_search&rid=200w.gif&ct=g" />
-</div>
-
 ## About me
 
 I’m a junior data scientist with skills in Python, MySQL, and data visualization. Experienced in data analysis, ETL processes, data cleaning, web scraping, and machine learning. I’m passionate about transforming complex data into actionable insights and impactful models. Explore my projects to see how I’m developing in the field!
