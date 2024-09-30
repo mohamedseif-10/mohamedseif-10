@@ -2,10 +2,10 @@
 
 ## About Me
 
-This is **Mohamed seif** I'm a junior data scientist, software engineer, and programming instructor from Egypt.
+This is **Mohamed seif** I'm a junior data scientist, software engineer, and programming instructor from Egypt 🇪🇬.
 My journey in tech is all about blending data-driven insights with robust software solutions and sharing knowledge with others.
 
-As a data scientist, I work with Python, MySQL, and SQLAlchemy to analyze data, and visualize the data using matplotlib, seaborn, plotly charts and dashboards, create ETL processes, and build machine learning models. I love using tools like Google Colab and Streamlit to turn complex data into clear, actionable insights.
+As a data scientist, I work with Python, MySQL, and SQLAlchemy to analyze data, and visualize the data using matplotlib, seaborn, plotly charts and dashboards, create ETL processes, and build machine learning models. I love using tools like Google Colab and Streamlit to turn complex data into clear, actionable insights.🔎🔎
 
 My software engineering background allows me to approach problems from multiple angles, creating efficient and scalable solutions.
 
