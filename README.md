@@ -31,22 +31,18 @@ I’m a junior data scientist skilled in Python, MySQL, SQLAlchemy, and data vis
 
 ## Contact Me
 
-<div align="left">
-
-Feel free to reach out if you want to work together, have any questions or suggestions! 
+Feel free to reach out if you want to work together, have any questions or suggestions!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-seif-83228424a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1049083749813473350)" target="_blank">
+  <a href="https://discordapp.com/users/1049083749813473350" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mohamedseif.a1@gmail.com" target="_blank">
+  <a href="mailto:mohamedseif.a1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 </div>
