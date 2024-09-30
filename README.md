@@ -33,6 +33,9 @@ I’m a junior data scientist skilled in Python, MySQL, SQLAlchemy, and data vis
 
 <div align="left">
 
+Feel free to reach out if you have any questions or suggestions! 
+[Mohamed Seif on LinkedIn](https://www.linkedin.com/in/mohamed-seif-83228424a/)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-seif-83228424a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
