@@ -1,4 +1,4 @@
-## Hey Guys! This Human Not Robot 🤖
+## Hey Guys! This is Human Not Robot 🤖
 
 ## About Me
 
