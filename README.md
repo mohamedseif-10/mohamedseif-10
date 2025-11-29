@@ -3,8 +3,6 @@
 ## About Me
 I’m a junior data scientist with experience in machine learning, data analysis, and end-to-end project development. My work includes classical ML models, ensemble methods, deep learning fundamentals, preprocessing, data wrangling, EDA, and data visualization. I focus on building practical systems that move from raw data to usable insights and deployable applications.
 
-I work with Python, SQL, Streamlit, Docker, Selenium, SciPy, scikit-learn, TensorFlow, Plotly, and FastAPI. I also build LLM-based tools using LangChain, LCEL, Pydantic, and cloud APIs such as OpenAI and Gemini. My background includes C++ and Java (Spring Boot), along with Agile development using Jira.
-
 I’m currently combining deep study of ML/math foundations with hands-on project work. I also teach data science topics, including an ongoing data mining series on YouTube, and have delivered private sessions and workshops in programming. I’m in my fourth year studying Computer Science and AI at Helwan University and interested in opportunities related to data and AI.
 
 ---
